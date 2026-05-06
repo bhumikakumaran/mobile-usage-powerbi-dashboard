@@ -26,10 +26,10 @@ This project presents an interactive Power BI dashboard analyzing mobile usage b
 **Dashboard Overview**  
 ![Dashboard Overview](images/dashboard-overview.png)
 
-**Key Performance Indicators - Screen Time**  
+**Key Performance Indicators 1 - Screen Time**  
 ![KPI 1](images/Screentime-kpi.png)
 
-**Key Performance Indicators - App Usage**  
+**Key Performance Indicators 2 - App Usage**  
 ![KPI 2](images/app-usage-kpi.png)
 
 **Screen Time by Age Group**  
@@ -58,7 +58,7 @@ The dataset used in this project is included in the repository.
 
 ---
 
-## 🎯 Conclusion
+## 📃 Conclusion
 This dashboard demonstrates how Power BI can be used to transform raw data into meaningful, interactive insights, enabling better understanding of user behavior and supporting data-driven decisions.
 
 ---
